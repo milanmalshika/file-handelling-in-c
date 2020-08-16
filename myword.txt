@@ -1,0 +1,5 @@
+apple	1	1	0	0	0	3	5
+university	0	1	2	0	1	6	10
+programming	1	0	1	1	0	8	11
+milan	1	0	1	0	0	3	5
+pineapple	1	2	1	0	0	5	9
